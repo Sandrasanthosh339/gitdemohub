@@ -1,4 +1,6 @@
 Apple
 Orange
 Mango
-
+Red
+Green
+Blue
